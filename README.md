@@ -12,3 +12,8 @@ With my works I mainly cover the following topics:
   - K Means Clustering
 - Natural Language Processing
 - Neural Nets and Deep Learning
+
+In addiction, in the course other important subjects are covered:
+- Principal Component Analysis (PCA)
+- Recommender Systems
+- Big Data and Spark
